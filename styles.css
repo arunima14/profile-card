@@ -1,0 +1,26 @@
+body{
+  background-color: #1fadad;
+}
+
+.bg-img-top{
+  position: fixed;
+  top: -30rem;
+  right: 50rem;
+  float: left;
+}
+
+.bg-img-bottom{
+  position: fixed;
+  bottom: -40rem;
+  left: 50rem;;
+  float: right;
+}
+
+.card-size{
+  margin: 7% 30% 5%;
+  border-radius: 10px;
+}
+
+.card-body{
+  padding: 0;
+}
